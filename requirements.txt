@@ -9,5 +9,6 @@ statsmodels
 scipy
 dill
 dataclasses
+flask
 
 -e .
